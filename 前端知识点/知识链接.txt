@@ -1,0 +1,88 @@
+vue-resource 访问本地文件跨域
+https://blog.csdn.net/sjohnny/article/details/70256172
+https://segmentfault.com/q/1010000014590390
+
+https://segmentfault.com/a/1190000007124470
+09ACD6493E18481D8A83BBB2975359BA
+vue转json：https://www.cnblogs.com/wangyunjie/p/5826676.html
+	
+vue-router：https://www.cnblogs.com/SamWeb/p/6610733.html
+组件之间的通信：https://blog.csdn.net/qq_38563845/article/details/77444973
+
+技术胖：：：http://jspang.com/；；http://jspang.com/2017/05/22/vuedemo/
+axios跨域：http://kouss.com/3884.html；；；https://segmentfault.com/q/1010000007525334
+websocket：https://blog.csdn.net/niyuelin1990/article/details/78062139
+
+饿了吗：https://segmentfault.com/a/1190000010765095
+vuex:https://juejin.im/post/5930ff4fa0bb9f0058b43261
+http://www.uiqdw.com/qdjs/js/36.html
+
+vuex:https://segmentfault.com/a/1190000005863691；；；
+http://jspang.com/2017/05/03/vuex/
+
+教你用Cordova打包Vue项目：https://www.jianshu.com/p/25d797b983cd
+
+jQuery ajax：http://www.jb51.net/article/102526.htm
+
+Date time：https://blog.csdn.net/zhanggaofeixy/article/details/52153110
+轮询：https://www.cnblogs.com/MR-cui/p/8004424.html
+ vue 二维码扫描：https://www.cnblogs.com/maomao93/p/7253674.html
+Mock.js：https://www.cnblogs.com/jasonwang2y60/p/7302449.html
+前端权限：https://blog.csdn.net/gitchat/article/details/78849246
+https://juejin.im/post/591aa14f570c35006961acac
+花裤衩：https://segmentfault.com/a/1190000009275424
+新：http://www.cnblogs.com/yeziTesting/p/7189731.html
+https://github.com/herozhou/vue-framework-wz
+wz模板教程：https://www.jianshu.com/p/3ea678dfc9d3
+webpack配置：https://www.jianshu.com/p/6712e4e4b8fe
+https://www.cnblogs.com/brandonhulala/p/6057378.html
+https://blog.csdn.net/air_hjj/article/details/77374920
+vue错误解决方案：https://www.cnblogs.com/legendjslc/p/9041804.html
+PPT：https://wenku.baidu.com/view/8de3a329b42acfc789eb172ded630b1c59ee9b1c.html?rec_flag=default&sxts=1529722637520
+vue-book 移动端：https://github.com/percy507/vue-book
+
+SCI期刊：https://blog.csdn.net/robinvista/article/details/53158668
+
+ImageNet：https://blog.csdn.net/u011440696/article/details/63255996
+CNN matlab讲解：https://blog.csdn.net/bingningning/article/details/52388974?locationNum=1
+https://blog.csdn.net/xiongchao99/article/details/78843154
+CNN公式推导：https://wenku.baidu.com/view/e793807b0029bd64793e2c1e.html
+https://www.sohu.com/a/161014998_99916544
+https://blog.csdn.net/gogokongyin/article/details/51423722
+RCNN：https://www.cnblogs.com/skyfsm/p/6806246.html
+LSTM：https://blog.csdn.net/yunqiinsight/article/details/80178756
+LSTM反向公式推导：https://blog.csdn.net/wjc1182511338/article/details/79285503
+
+PILCO：https://zhuanlan.zhihu.com/p/27539273
+https://zhuanlan.zhihu.com/sharerl?author=guoxiansia
+https://zhuanlan.zhihu.com/sharerl
+神经网络：http://www.zuixu.com/dz/a/5484.html
+神经网络matlab代码：https://wenku.baidu.com/view/65344686102de2bd9605886e.html?sxts=1529722505385
+徐一达机器学习：http://i.youku.com/i/UMzIzNDgxNTg5Ng==/videos?spm=a2hzp.8253869.0.0&order=1&page=2&last_item=&last_pn=1&last_vid=339192894
+EM算法：http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html
+HMM：https://www.cnblogs.com/skyme/p/4651331.html
+Realtime Collaborating With An Industrial Manipulator Using A Constraint-based Programming Approach
+Myo手环：https://baijiahao.baidu.com/s?id=1581009992442814424&wfr=spider&for=pc
+https://post.smzdm.com/p/245398/
+扩展卡尔曼滤波：https://wenku.baidu.com/view/96e39af4e87101f69f31959c.html
+3DCNN Action recongition:https://blog.csdn.net/atwood_song/article/details/79001966
+OpenCV：https://blog.csdn.net/w_k_l/article/details/74887145
+https://blog.csdn.net/column/details/opencv-tutorial.html
+HTTP：https://blog.csdn.net/carson_ho/article/details/82106781
+
+Gaussian-wishart:https://wenku.baidu.com/view/353b9834f111f18583d05a80.html
+https://blog.csdn.net/wjj5881005/article/details/53535613
+
+vue-music:https://segmentfault.com/a/1190000015629684
+EKF：https://blog.csdn.net/u013102281/article/details/59109566
+UKF：https://wenku.baidu.com/view/7a537b11c8d376eeafaa3157.html
+https://wenku.baidu.com/view/7a537b11c8d376eeafaa3157.html
+https://blog.csdn.net/drilistbox/article/details/80506249
+
+https://wenku.baidu.com/view/063af34ce009581b6ad9eb21.html
+
+BP神经网络：https://www.cnblogs.com/Rosanna/p/3328750.html
+蚁群算法：https://www.imooc.com/article/23910?block_id=tuijian_wz
+Q_learning:https://baijiahao.baidu.com/s?id=1597978859962737001&wfr=spider&for=pc
+
+https://blog.csdn.net/kwame211/article/details/80347593
